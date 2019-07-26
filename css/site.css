@@ -1,7 +1,7 @@
 .box {
   height: 100px;
   /* width: 100px;  */
-   flex: 1;
+  flex: 1;
 }
 .color1 {
   background-color: blue;
@@ -21,4 +21,8 @@
 }
 .center-text {
   text-align: center;
+}
+.box p {
+  text-align: center;
+  color: white;
 }
